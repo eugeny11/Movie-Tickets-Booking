@@ -30,17 +30,19 @@
 ## 📥 Installation
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/your-username/cinema-tickets-booking.git
 
-Navigate to the project directory:
-bash
+git clone https://github.com/your-username/cinema-tickets-booking.git
+
+2. Navigate to the project directory:
 
 cd cinema-tickets-booking
-Open index.html in your preferred browser.
 
-How to Use
-Select a movie from the dropdown menu.
-Click on available seats to select or deselect them.
-Check the total cost and seat count in the checkout area.
+3.Open index.html in your preferred browser.
+
+## 🚀 How to Use
+1.Select a movie from the dropdown menu.
+2.Click on available seats to select or deselect them.
+3.Check the total cost and seat count in the checkout area.
 Use the Buy button to finalize your booking or the Reset button to clear your selection.
+
+Open index.html in your preferred browser.
